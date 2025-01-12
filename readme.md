@@ -56,3 +56,5 @@ It should look like this:
 > Make sure you have unmodified keyboard shortcuts in Opera. Try manually doing CTRL + L in the browser to check if it focuses on the address bar.
 
 If the address bar doesn't get auto-focused, in `operaCHB.bat`, change `pythonw` to `python` and try debugging the issues here.
+
+> If you are using Opera GX make sure you modify line 16 of websocket-listener.py from "Opera" to "Opera GX" or whatever, I don't use it so i can't tell.
